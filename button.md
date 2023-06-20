@@ -1,0 +1,1 @@
+Este arquivo – onde, supostamente, seria desenvolvido um novo botão – foi criado para aprender a utilizar uma branch.
